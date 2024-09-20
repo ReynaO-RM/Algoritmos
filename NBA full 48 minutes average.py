@@ -1,3 +1,6 @@
+'''
+Programa que calcula el rendimiento del jugador en base a su tiempo de juego actual
+'''
 def nba_extrap(ppg, mpg):
     # Handle edge case where MPG is 0
     if mpg == 0:
