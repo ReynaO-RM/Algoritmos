@@ -1,3 +1,6 @@
+'''
+Programa que redondea el número a 2 decimales
+'''
 def round_to_two_decimal_places(number):
     # Round the number to two decimal places
     rounded_number = round(number, 2)
