@@ -1,3 +1,6 @@
+'''
+Programa que ajusta el recorte de relación de aspecto conservando la altura
+'''
 from PIL import Image
 import math
 def adjust_to_16_9(image_path, output_path):
