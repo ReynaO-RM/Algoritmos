@@ -1,3 +1,6 @@
+'''
+Programa que calcula el rango mínimo y máximo de edad para la compatibilidad
+'''
 import math
 
 def age_range(age):
