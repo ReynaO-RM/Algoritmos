@@ -1,3 +1,6 @@
+'''
+Programa que calcula el precio de los mangos
+'''
 def mango(quantity, price_per_mango):
     # Calculate the number of sets of 3 mangoes
     sets_of_three = quantity // 3
