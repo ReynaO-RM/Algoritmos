@@ -1,3 +1,6 @@
+'''
+Programa que calcula los litros que se deben tomar de acuerdo al tiempo que se pasa en la bicicleta
+'''
 import math
 
 def litres(time):
